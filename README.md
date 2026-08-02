@@ -79,8 +79,21 @@ I'm a Senior Systems Administrator with over 20 years of experience designing, s
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GMakeziG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMakeziG&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/GMakeziG">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api?username=GMakeziG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+      alt="Gerso's GitHub statistics"
+    />
+  </a>
+
+  <a href="https://github.com/GMakeziG">
+    <img
+      width="40%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMakeziG&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      alt="Gerso's most-used languages"
+    />
+  </a>
 </p>
 
 <p align="center">
