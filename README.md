@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Senior+Systems+Administrator;DevOps+Engineer+in+Progress;Linux+%7C+NixOS+%7C+Kubernetes;GitOps+%7C+Cloud+Automation;Building+Ninjatronics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Senior+Systems+Administrator;Platform+Engineering+%7C+DevOps;Automation+%7C+Observability+%7C+IaC;Linux+%7C+Azure+%7C+Kubernetes;GitOps+%7C+Cloud+Automation" />
 </p>
 
 # Hi, I'm Gerso 👋
