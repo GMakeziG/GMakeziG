@@ -13,7 +13,6 @@ I'm a Senior Systems Administrator with over 20 years of experience designing, s
 ## 🚀 About Me
 
 - 🏢 Senior Systems Administrator
-- 🥷 Founder of Ninjatronics
 - ❄️ Learning NixOS
 - ☸️ Building Kubernetes homelabs
 - 🛡️ Passionate about automation and security
@@ -74,7 +73,7 @@ I'm a Senior Systems Administrator with over 20 years of experience designing, s
 - ❄️ Mastering NixOS
 - ☸️ Learning Kubernetes & GitOps
 - 🤖 Building AI-powered developer workflows
-- 🛡️ Transitioning from Senior Systems Administrator to DevOps Engineer
+- 🛡️ Expanding platform engineering, DevOps, and SRE practices through hands-on projects
 
 ## 📈 GitHub Activity
 
@@ -95,14 +94,6 @@ I'm a Senior Systems Administrator with over 20 years of experience designing, s
 
 <a href="https://www.linkedin.com/in/gerso-guillen/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ninjatronics.io">
-  <img src="https://img.shields.io/badge/Ninjatronics-000000?style=for-the-badge&logo=cloudflarepages&logoColor=white"/>
-</a>
-
-<a href="gerso@ninjatronics.io">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.credly.com/users/gerso-robayo-guillen">
