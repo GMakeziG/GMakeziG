@@ -8,7 +8,7 @@
 
 # Hi, I'm Gerso 👋
 
-I'm a Senior Systems Administrator with over 20 years of experience designing, securing, and automating enterprise infrastructure. I'm currently focused on mastering DevOps with NixOS, Kubernetes, GitOps, cloud automation, and AI-powered workflows.
+I'm a Senior Systems Administrator with over 20 years of experience designing, securing, automating, and troubleshooting enterprise infrastructure. My current work focuses on platform engineering, automation, observability, Linux, Azure, GitOps, and cloud-native technologies.
 
 ## 🚀 About Me
 
@@ -62,16 +62,18 @@ I'm a Senior Systems Administrator with over 20 years of experience designing, s
 
 ## 🚀 Featured Projects
 
+- 📊 **Infrastructure Observability Platform** — PowerShell, PostgreSQL, Prometheus, Grafana, Docker, REST APIs, and operational telemetry
+- 🛡️ **Security Evidence Validator** — PowerShell application for Windows Event Log validation, automated testing, Git workflows, and security analysis
 - 🥷 **Ninjatronics** — AI-powered developer ecosystem
-- ☸️ **Homelab** — NixOS, Kubernetes, FluxCD, Cloudflare
+- ☸️ **Kubernetes GitOps Homelab** — NixOS, Cloudflare, Kubernetes, K3s, FluxCD, Helm, Terraform/OpenTofu, GitHub Actions, Prometheus, and Grafana
 - ❤️ **Mis Hermanos Pequeñitos** — Nonprofit website and infrastructure
 - 💰 **Zaifu** — Personal Financial Operating System
 
 ## 🎯 Current Mission
 
 - 🥷 Building Ninjatronics AI
-- ❄️ Mastering NixOS
-- ☸️ Learning Kubernetes & GitOps
+- ❄️ Building and operating NixOS environments
+- ☸️ Expanding Kubernetes & GitOps engineering experience
 - 🤖 Building AI-powered developer workflows
 - 🛡️ Expanding platform engineering, DevOps, and SRE practices through hands-on projects
 
